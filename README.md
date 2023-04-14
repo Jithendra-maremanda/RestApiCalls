@@ -1,16 +1,7 @@
 # task
 
-A new Flutter project.
+REST API (Representational State Transfer Application Programming Interface) is a widely used architecture for building web services that allows for CRUD (Create, Read, Update, Delete) operations to be performed on data. In Flutter, you can easily perform REST API calls to perform CRUD operations on data using the http package.
 
-## Getting Started
+Next, you would use the http package to send HTTP requests to these endpoints and receive responses from the server. You can use the http package to send GET, POST, PUT, and DELETE requests, depending on the type of CRUD operation you wish to perform.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Overall, using REST API calls to perform CRUD operations in Flutter can provide a powerful way to communicate with a server and manage data in an efficient and scalable way. With the http package and Flutter's reactive UI framework, you can create dynamic and responsive UIs that update in real-time as data is added, read, updated, or deleted on the server.
